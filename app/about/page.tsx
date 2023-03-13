@@ -1,9 +1,7 @@
-import React from 'react'
+'use client'
 
-const About = () => {
-  return (
+const About = () => (
     <div>About</div>
   )
-}
 
 export default About
